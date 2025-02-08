@@ -57,7 +57,24 @@ Comparative Analysis: Multi-stock comparison
 
 ## Screenshots:
 
-![Screenshot 08-02-2025 21_26_39](https://github.com/user-attachments/assets/8cf19979-b583-4986-92b4-cc316878e291)
+![Screenshot 08-02-2025 21_26_39](https://github.com/user-attachments/assets/36d67736-2cde-43cb-9c8c-3e3d82d8e7b7)
+
+![Screenshots - File Explorer 08-02-2025 21_27_39](https://github.com/user-attachments/assets/56261325-2d02-4580-bcb8-677f5710ca6c)
+
+![Final Stock Market Analysis 08-02-2025 21_27_47](https://github.com/user-attachments/assets/8970da7e-708b-4a89-bb0c-f1d24ba7781f)
+
+![Final Stock Market Analysis 08-02-2025 21_27_54](https://github.com/user-attachments/assets/a0155852-f0d9-4721-9872-a3a802155531)
+
+![Final Stock Market Analysis 08-02-2025 21_28_02](https://github.com/user-attachments/assets/4e242ea5-1872-45e0-a725-74dcaa36f1b0)
+
+![Final Stock Market Analysis 08-02-2025 21_28_09](https://github.com/user-attachments/assets/54481278-c586-4b2a-82c4-c2e2fbb64b84)
+
+
+
+
+
+
+
 
 
 
