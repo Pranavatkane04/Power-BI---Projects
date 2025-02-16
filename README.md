@@ -2,9 +2,9 @@
 
 ## 🔗 Project Resources
 
-Google Drive (Datasets & Reports): [YOUR_GOOGLE_DRIVE_LINK_HERE]
+Google Drive (Datasets & Reports): [https://drive.google.com/drive/folders/1DbsJ1XU2xV_vjWhcWP5R7aQs2XHYTfVc?usp=sharing]
 
-GitHub Repository: [YOUR_GITHUB_REPO_LINK_HERE]
+GitHub Repository: [https://github.com/Pranavatkane04]
 
 ## Power BI Dashboard Preview: 
 
